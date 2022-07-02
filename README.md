@@ -1,2 +1,5 @@
 # jogo_Mario
- Aplicando javascript iniciante
+
+Aplicando javascript iniciante
+
+Jogo com comandos básicos, aplicando javascript.
